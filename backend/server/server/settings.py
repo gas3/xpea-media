@@ -25,7 +25,7 @@ SECRET_KEY = "j+qxsyi2xv!6lkv-hn)c$qxeo+t#1r#)0s)o^yh)ds#k%%19tm"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', 'vpscp01.proisp.no']
+ALLOWED_HOSTS = ['*', '127.0.0.1', '0.0.0.0', 'vpscp01.proisp.no']
 
 
 # Application definition
